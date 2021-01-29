@@ -4,13 +4,13 @@ A new line.
 
 Making changes to this document.
 
-## ingredients
+## Ingredients
 * 2 avocados
 * 1 lime
 * 1 tsp salt
 * 1 onion
 
-## instructions
+## Instructions
 
 1. chop avocado
 2. chop onion
